@@ -1,0 +1,57 @@
+**¡¡Bienvenido al grupo temático de programador@s!!**
+
+Agradecemos tu interés en el proyecto, gracias a ti, somos más personas que buscan representarse por si mismas, estaremos atentos de tu participación. Pero antes, permíteme contarte sobre unas cosas que deberías saber.
+
+**¿Qué objetivos tenemos como grupo temático?**
+Esto es algo que probablemente cambie a lo largo de la vida del grupo, las necesidades y objetivos son discutidas semanalmente en la sesiones ordinarias; más adelante te contaré de ellas. Por ende es indispensable que estés atent@ a todo cambio que se pueda dar. Te listaré las actuales:
+
+- Aumentar la cantidad de personas activas del grupo.
+- Facilitar recursos para la capacitación de integrantes novici@s.
+- Paridad
+- Desarrollar un proyecto (o tal vez más) propuesto desde nuestro grupo temático.
+
+Haciendo un un resumen de la finalidad de los primeros objetivos, se puede concluir que nuestro mayor problema a tratar es la baja integración de nuev@s programador@s, principalmente aquell@s no pertenecientes al género masculino. En cuanto al tercero tiene que ver más con un sentido de autonomía.
+
+**Sesiones ordinarias**
+Hace un momento mencioné algo sobre ellas, pero ¿Qué son?
+Las sesiones ordinarias son reuniones de voz que hacemos por la plataforma de Jitsi, en un ejercicio de democracia horizontal para dar voz a cada desarrollador o desarrolladora que tenga la iniciativa de participar. Como ya comenté, ahí tratamos a profundidad los temas de interés del grupo y damos avisos. Son todos los Domingos a las 21:00 horas. Si te interesa participar te recomiendo asistir.
+
+**¿Qué se ha hecho y quiénes han contribuido?**
+Los proyectos que se encuentran en estos momentos en producción son los siguientes:
+
+- Backend del formulario de registro del Proyecto Migala, Los programador@s que aportaron en su construcción son los siguientes: 
+    - Joshua Nathanael Saucedo Uriarte 
+    - Luis Sandoval
+Repositorio: https://github.com/ProyectoMigala/formulario-Registro-2-backend
+
+- Frontend del formulario de registro del Proyecto Migala, Los programador@s que aportaron en su construcción son los siguientes:
+    - Dan Yael Sajarópulos Verdugo
+    - Joshua Nathanael Saucedo Uriarte 
+    - Antonio Huerta Reyes
+    - Luis Sandoval
+Repositorio: https://github.com/ProyectoMigala/formulario-Registro-2-frontend
+
+- Bot de telegram para las comisiones estatales, Los programador@s que aportaron en su construcción son los siguientes:
+    - Joshua Nathanael Saucedo Uriarte
+
+Repositorio: https://github.com/ProyectoMigala/MigalaTelegramBot
+
+En este momento se espera que en la siguiente sesión con día 02/10/2022 cada un@ de los integrantes dé su propuesta del proyecto que más le haya intesado; puedes elegir cualquiera de los tres, no es obligatorio elegir sólo uno.
+
+**¡¡Quiero aprender!!**
+Muy bien, en el canal de texto #Aprender te hemos dejado algunos recursos que pueden ser de utilidad. Si ya tienes experiencia y te interesa dejar algún recurso para que otros dev's puedan aprender, agregalo con este formato:
+
+1. Un texto que describa el recurso y la razón del mismo. Esto con la finalidad de facilitar la decisión de qué recurso usar, para l@s nuev@s dev's, suponiendo que en algún momento podría saturarse el canal.
+2. El enlace del recurso.
+
+Para finalizar quiero dejarte a la mano los recursos con los que contamos para desarrollar y los recursos oficiales del Proyecto Migala:
+
+Grupo temático de desarrolladores:
+1. Cuenta de aws que aloja el backend del formulario y el bot para comisiones estatales. Esta funciona con spot instances para reducir costos.
+2. Trello del grupo: https://trello.com/b/gTzF43OO/migala-dev
+
+Proyecto Migala:
+1. Página principal del proyecto migala: https://www.proyectomigala.global/
+2. [Facebook](https://www.facebook.com/proyectomigala), [Grupos](https://www.facebook.com/groups/proyectomigala) y [Youtube](https://www.youtube.com/channel/UCAz8Ua3S6qMMqKqgFCTU78g).
+
+
