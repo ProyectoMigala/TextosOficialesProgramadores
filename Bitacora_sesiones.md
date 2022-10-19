@@ -28,7 +28,14 @@ Angel:                  Y - Alto E - Mediano D - Bajo
 
 El sistema servirá para automatizar la autorización y creación de trasmisiones. En la sesión ordinaria del día 16/10/2022 se presentará el mockup definitivo.
 
-### Sesión del día: 08/10/2022
+### Sesión del día: 09/10/2022
 **Sumario de la sesión ordinaria: 09/10/2022** @everyone 
 1. Lenin, integrante de administración, nos presentó la nueva propuesta del reglamento y un nuevo organigrama. El grupo aceptó el reglamento, pero decidió crear una contrapropuesta al organigrama. Esto fue así por una negativa a fucionarse con el grupo de estrategia digital. Queda pendiente elegir un día para trabajar en dicha contrapropuesta.
 2. Por el entrante podcast de 56 horas, se dejó a votación si participar en la dinámica de publicidad presentada por Sylvia Beltran. Esta dinámica consiste en dejar un espacio en el podcast para que las comisiones estatales y grupos temáticos se dieran a conocer. El resultado de la votación es que no participaremos.
+
+### Sesión del día: 16/10/2022
+**Sumario de la sesión ordinaria: 16/10/2022** @everyone 
+1. Se dió bienvenida a los nuevos integrantes del grupo.
+2. Se hizo una sesión de preguntas para complementar la información que traían del podcast y del discord del grupo.
+3. Luego de una lluvia de ideas, se planteó a cada uno de los integrantes traer para la siguiente sesión una propuesta bien desarrollada para la nueva forma de organización; la mayoría votó que estaba deacuerdo.
+4. También fue propuesto y aceptado un nuevo cambio de horario a las sesiones ordinarias, la herramienta propuesta y aceptada para la encuesta fué [when2meet.com](www.when2meet.com).
