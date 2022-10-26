@@ -39,3 +39,8 @@ El sistema servirá para automatizar la autorización y creación de trasmisione
 2. Se hizo una sesión de preguntas para complementar la información que traían del podcast y del discord del grupo.
 3. Luego de una lluvia de ideas, se planteó a cada uno de los integrantes traer para la siguiente sesión una propuesta bien desarrollada para la nueva forma de organización; la mayoría votó que estaba deacuerdo.
 4. También fue propuesto y aceptado un nuevo cambio de horario a las sesiones ordinarias, la herramienta propuesta y aceptada para la encuesta fué [when2meet.com](www.when2meet.com).
+
+### Sesión del día: 23/10/2022
+**Sumario de la sesión ordinaria: 23/10/2022** @everyone 
+1. Se presentaron las diversas propuestas para la reestructuración del grupo de programadores.
+2. Después de una larga discusión, se llegó al acuerdo de que a lo largo de la semana construiríamos una nueva propuesta unificada.
