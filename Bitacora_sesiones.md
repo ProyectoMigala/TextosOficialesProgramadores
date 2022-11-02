@@ -44,3 +44,12 @@ El sistema servirá para automatizar la autorización y creación de trasmisione
 **Sumario de la sesión ordinaria: 23/10/2022** @everyone 
 1. Se presentaron las diversas propuestas para la reestructuración del grupo de programadores.
 2. Después de una larga discusión, se llegó al acuerdo de que a lo largo de la semana construiríamos una nueva propuesta unificada.
+
+### Sesión del día: 30/10/2022
+**Sumario de la sesión ordinaria: 30/10/2022** @everyone 
+1. Al principio de la sesión el integrante Angel M Solis presentó una breve síntesis de las propuestas de organización de la sesión pasada. Después de un diálogo prolongado se acordaron modificaciones a las propuestas:
+    - Crear manifiesto del grupo y reglamento de trabajo ---> Definir primeramente misión, visión y valores.
+2. Las propuestas aceptadas fueron:
+    - Crear el reglamento de trabajo y un notion; solo después de definir lo tratado en el punto anterior.
+    - Crear los roles de moderador, representante(mujer y hombre) y secretarie. Con la intención de tener una organización mínima en las actividades administrativas.
+    - Definir nuevos objetivos, a parte de programar software para el PM y la comunidad.
